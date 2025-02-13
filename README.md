@@ -1,3 +1,9 @@
-# state_management
+# Padmakanya State Management
 
-A new Flutter project.
+A new state management project using `provider` package.
+
+
+
+![homepage](./screenshots/homepage.png)
+
+![second screen](./screenshots/second_screen.png)
